@@ -1,0 +1,14 @@
+## Dataset
+
+Due to repository size limitations, the classroom video dataset is hosted on Google Drive.
+
+Dataset Link:
+https://drive.google.com/drive/folders/1NYKI5DFiZFsy38v-8h0uUp8hGo4oPDP7?usp=sharing
+
+Scenarios:
+- Low Occupancy
+- Medium Occupancy
+- High Occupancy
+- Janitor Cleaning
+- Students Arriving
+- Students Leaving

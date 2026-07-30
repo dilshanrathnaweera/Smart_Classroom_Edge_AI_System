@@ -50,3 +50,4 @@ Smart-Classroom/
 ├── screenshots/
 ├── presentation/
 └── README.md
+>>>>>>> 6846185 (Update README.md)

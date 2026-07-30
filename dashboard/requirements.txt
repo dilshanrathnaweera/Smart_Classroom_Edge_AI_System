@@ -1,0 +1,24 @@
+# ─────────────────────────────────────────────────────────────────
+# Smart Classroom Edge AI — requirements.txt
+# Python 3.10 | ONNX Runtime inference | Streamlit dashboard
+# ─────────────────────────────────────────────────────────────────
+
+# Web dashboard
+streamlit>=1.36.0
+
+# Computer vision (headless — no Qt/GUI, safe inside Docker)
+opencv-python-headless>=4.10.0
+
+# AI inference
+onnxruntime>=1.20.0
+onnx>=1.16.0
+
+# Numerical & data
+numpy>=2.0.0
+pandas>=2.0.0
+
+# Visualisation (Streamlit charts)
+altair>=5.0.0
+
+# Image processing (used by ONNX preprocessing pipeline)
+pillow>=10.0.0

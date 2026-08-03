@@ -45,7 +45,7 @@ Smart_Classroom_Edge_AI_System/
 
 Sample classroom footage and full dataset documentation are available in [`dataset/`](./dataset). The complete raw video dataset used for training exceeds GitHub's practical storage limits, so it is hosted externally on Google Drive — the access link is provided in the `dataset/` folder's documentation. This repository includes only sample clips and dataset metadata; no raw training footage is stored in version control.
 
-## Getting Started
+## How setup and run in our pc?
 
 ### Prerequisites
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/) installed and running

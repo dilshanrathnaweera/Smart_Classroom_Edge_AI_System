@@ -58,8 +58,7 @@ docker build -t smart-classroom-edge-ai .
 docker run -d -p 8501:8501 smart-classroom-edge-ai
 ```
 
-Then open **http://localhost:8501** in your browser to access the dashboard.
-(For better Result set Detection Confidence Threshold value to 0.15)
+Then open **http://localhost:8501** in your browser to access the dashboard.                                                                                       (For better Result set Detection Confidence Threshold value to 0.15)
 
 ### Stopping the Container
 
